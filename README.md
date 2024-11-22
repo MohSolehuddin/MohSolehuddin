@@ -47,7 +47,7 @@ I am continually expanding my skill set and exploring new technologies to stay a
   - Booking management system.
   - Admin panel with full CRUD capabilities.
 
-### **[Loan App](https://github.com/loan-app)**
+### **[Loan App](https://github.com/MohSolehuddin/loan-app)**
 
 - **Description**: A loan management system, providing a secure environment to manage loan applications, user information, and loan processing.
 - **Technologies Used**: Spring Boot (Backend), ReactJS (Frontend), JWT, PostgreSQL.
@@ -56,7 +56,7 @@ I am continually expanding my skill set and exploring new technologies to stay a
   - Loan application tracking.
   - Admin panel for approval/rejection.
 
-### **[PwMg Web App](https://github.com/PwMg)**
+### **[PwMg Web App](https://github.com/MohSolehuddin/PwMg)**
 
 - **Description**: A personal password management tool with advanced encryption to securely store user data.
 - **Technologies Used**: ReactJS, Node.js, MongoDB, bcrypt.
