@@ -41,7 +41,6 @@ I am continually expanding my skill set and exploring new technologies to stay a
 </div>
 
 <br clear="both">
-###
 
 ## **🚀 Projects**
 
